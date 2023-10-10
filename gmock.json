@@ -2,12 +2,102 @@
   "data": [
     {
       "id": 0,
-      "name": "Product 1",
-      "thumbnail": "https://i.imgur.com/oUqfh3w_d.webp?maxwidth=760&fidelity=grand",
-      "price" : 1000,
-      "price_formatted": "1000",
+      "name": "mủ trắng",
+      "thumbnail": "https://i.imgur.com/WQC4sYa_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 4000,
+      "price_formatted": "4000",
       "slug" : "slug",
-      "description" : "DESC",
+      "description" : "Bao gồm các vật dụng bằng mũ, thau, ly, . . .",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 1,
+      "name": "mủ màu",
+      "thumbnail": "https://i.imgur.com/SOyufuZ_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 4000,
+      "price_formatted": "4000",
+      "slug" : "slug",
+      "description" : "Bao gồm các vật dụng bằng mũ, thau, ly, . . .",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 2,
+      "name": "chai nhựa",
+      "thumbnail": "https://i.imgur.com/BLQwI7g_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 4000,
+      "price_formatted": "4000",
+      "slug" : "slug",
+      "description" : "Bao gồm các vật dụng bằng mũ, thau, ly, . . .",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 3,
+      "name": "nhôm",
+      "thumbnail": "https://i.imgur.com/dzEaiSK_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 5000,
+      "price_formatted": "5000",
+      "slug" : "slug",
+      "description" : "Gồm các vật dụng, thiết bị bằng nhôm",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 4,
+      "name": "giấy báo",
+      "thumbnail": "https://i.imgur.com/LPEKdFz_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 5000,
+      "price_formatted": "5000",
+      "slug" : "slug",
+      "description" : "Bao gồm các loại giấy báo, tạp chí, tập sách,...",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 5,
+      "name": "giấy hồ sơ",
+      "thumbnail": "https://i.imgur.com/6kI5k8W_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 3000,
+      "price_formatted": "3000",
+      "slug" : "slug",
+      "description" : "Bao gồm các loại giấy in, giấy bìa, . . .",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 6,
+      "name": "giấy thùng",
+      "thumbnail": "https://i.imgur.com/4HRgZ5Y_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 3000,
+      "price_formatted": "3000",
+      "slug" : "slug",
+      "description" : "Bao gồm các loại giấy carton vụn, giấy carton nguyên khối, . . .",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 7,
+      "name": "lon",
+      "thumbnail": "https://i.imgur.com/Kl89Eu7_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 6000,
+      "price_formatted": "6000",
+      "slug" : "slug",
+      "description" : "Bao gồm các loại lon nước ngọt, lon bia, . . . ",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 8,
+      "name": "sắt đặc",
+      "thumbnail": "https://i.imgur.com/s1kQEyt_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 6000,
+      "price_formatted": "6000",
+      "slug" : "slug",
+      "description" : "Bao gồm các vật dụng, thiết bị bằng sắt nguyên khối ",
+      "weight_class" : "kg"
+    }, 
+    {
+      "id": 9,
+      "name": "sắt vụn",
+      "thumbnail": "https://i.imgur.com/oUqfh3w_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 5000,
+      "price_formatted": "5000",
+      "slug" : "slug",
+      "description" : "Bao gồm các loại vật dụng, thiết bị bằng sắt vụn, không toàn vẹn, . . . ",
       "weight_class" : "kg"
     }
   ]
