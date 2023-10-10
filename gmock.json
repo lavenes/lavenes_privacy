@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Product 1",
+      "thumbnail": "https://i.imgur.com/oUqfh3w_d.webp?maxwidth=760&fidelity=grand",
+      "price" : 1000,
+      "price_formatted": "1000",
+      "slug" : "slug",
+      "description" : "DESC",
+      "weightClass" : "kg"
+    }
+  ]
+}
