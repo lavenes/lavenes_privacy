@@ -8,7 +8,7 @@
       "price_formatted": "1000",
       "slug" : "slug",
       "description" : "DESC",
-      "weightClass" : "kg"
+      "weight_class" : "kg"
     }
   ]
 }
